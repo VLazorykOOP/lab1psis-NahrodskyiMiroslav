@@ -1,0 +1,5 @@
+C:\Users\MSI\source\repos\DockerLab1\DockerLab1\bin\Release\net6.0\publish\DockerLab1.exe
+C:\Users\MSI\source\repos\DockerLab1\DockerLab1\bin\Release\net6.0\publish\DockerLab1.dll
+C:\Users\MSI\source\repos\DockerLab1\DockerLab1\bin\Release\net6.0\publish\DockerLab1.deps.json
+C:\Users\MSI\source\repos\DockerLab1\DockerLab1\bin\Release\net6.0\publish\DockerLab1.runtimeconfig.json
+C:\Users\MSI\source\repos\DockerLab1\DockerLab1\bin\Release\net6.0\publish\DockerLab1.pdb
